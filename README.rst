@@ -1,7 +1,7 @@
 Unhandled exception manager for wxPython
 ========================================
 
-| A unhandled exception manager for wxPython. It's easy to use : install it, import it and call WxUnhandledExceptionManager.attach().
+| An unhandled exception manager for wxPython. It's easy to use : install it, import it and call WxUnhandledExceptionManager.attach().
  
 | When an unhandled exception occurs, a dialog is opened and shows the type of the exception, the message and the stack trace.
 
