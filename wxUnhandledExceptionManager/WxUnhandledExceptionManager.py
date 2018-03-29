@@ -10,7 +10,7 @@ def attach():
     sys.excepthook = _custom_excepthook
 
 
-def _custom_excepthook(exception_type: type, value: Exception, tb: traceback):
+def _custom_excepthook(exception_type, value, tb):
     dlg_content = textwrap.dedent("""\
     An unhandled exception occurred !
     
