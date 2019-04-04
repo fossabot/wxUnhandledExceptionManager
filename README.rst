@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcforgeard%2FwxUnhandledExceptionManager.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcforgeard%2FwxUnhandledExceptionManager?ref=badge_shield)
+
 Unhandled exception manager for wxPython
 ========================================
 
@@ -38,3 +40,7 @@ Credits and licence
 
 | MIT Licence
 | @ FORGEARD Clément 2018
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcforgeard%2FwxUnhandledExceptionManager.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcforgeard%2FwxUnhandledExceptionManager?ref=badge_large)
